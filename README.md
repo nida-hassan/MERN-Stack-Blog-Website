@@ -16,45 +16,45 @@ Blog Hub allow you to perform CURD operation, add blog, can see all user blogs, 
     <b>Login Page</b>
 </p>
 
-<img src="./screenshot/login.png" alt="Main">
+<img src="./client/screenshot/login.png" alt="Main">
 
 <p align="center">
     <b>Add Blog</b>
 </p>
 
-<img src="./screenshot/add.png" alt="Main">
+<img src="./client/screenshot/add.png" alt="Main">
 
 <p align="center">
     <b>My Blog</b>
 </p>
 
-<img src="./screenshot/my.png" alt="Main">
+<img src="./client/screenshot/my.png" alt="Main">
 
 
 <p align="center">
     <b>All Blog</b>
 </p>
 
-<img src="./screenshot/all.png" alt="Main">
+<img src="./client/screenshot/all.png" alt="Main">
 
 
 <p align="center">
     <b>Update Blog</b>
 </p>
 
-<img src="./screenshot/update.png" alt="Main">
+<img src="./client/screenshot/update.png" alt="Main">
 
 <p align="center">
     <b>Update User Info</b>
 </p>
 
-<img src="./screenshot/updatePassword.png" alt="Main">
+<img src="./client/screenshot/updatePassword.png" alt="Main">
 
 <p align="center">
     <b>Delete Blog</b>
 </p>
 
-<img src="./screenshot/delete.png" alt="Main">
+<img src="./client/screenshot/delete.png" alt="Main">
 
 ## Technologies Used
 React JS
