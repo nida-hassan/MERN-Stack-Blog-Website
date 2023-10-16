@@ -1,0 +1,50 @@
+:root {
+  --color-gradient: linear-gradient(90deg, rgba(0, 36, 10, 1) 0%, rgba(9, 98, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+}
+.form-control {
+  padding-left: 0;
+  margin-left: 0;
+  border: none;
+  border-bottom: 1px solid #ccc;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  outline: none;
+}
+.form-group label {
+  margin: auto;
+  font-weight: bold;
+}
+.input-group-text{
+  border: none;
+  background-color: white;
+  border-bottom: 1px solid #ccc;
+}
+.user-image {
+  width: 100px;
+  height: 100px;
+}
+.card-hover:hover{
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px !important;
+}
+/* Add this to your CSS */
+.author-circle {
+  width: 34px;
+  height: 34px;
+  background-color: red;
+  color: white;
+  border-radius: 50%;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 8px; /* Adjust the margin as needed */
+}
+.icons{
+  font-size: 18px;
+  cursor: pointer;
+}
+.choose-file{
+  background-color: none;
+}

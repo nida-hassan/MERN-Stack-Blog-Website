@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Clicker+Script&family=Roboto:ital,wght@1,900&display=swap');
+
+:root {
+  --color-gradient: linear-gradient(90deg, rgba(0, 36, 10, 1) 0%, rgba(9, 98, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+}
+.color{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+  background-image: var(--color-gradient); /* Use gradient as background */
+  -webkit-background-clip: text; /* Apply background-clip to text */
+  background-clip: text;
+  color: transparent; /* Make the text transparent */
+}
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+  font-size: 50px;
+  background-image: var(--color-gradient); /* Use gradient as background */
+  -webkit-background-clip: text; /* Apply background-clip to text */
+  background-clip: text;
+  color: transparent; /* Make the text transparent */
+}
+.nav-bar{
+  border: none;
+  font-size: 15px;
+  color: white; 
+  background: var(--color-gradient);
+}
+.link-tag{
+  text-decoration: none;
+}
+.auth-heading{
+  font-weight: 900;
+  background-image: var(--color-gradient);
+  -webkit-background-clip: text; 
+  background-clip: text;
+  color: transparent;
+}
+
+
+@media (max-width: 501px) {
+ h1 {
+    font-size: 35px;
+  }
+}
+

@@ -1,0 +1,9 @@
+:root {
+  --color-gradient: linear-gradient(90deg, rgba(0, 36, 10, 1) 0%, rgba(9, 98, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+}
+.background-color{
+    background: var(--color-gradient);
+}
+.nav-link:focus{
+  border-bottom: 1px solid yellowgreen;
+}
