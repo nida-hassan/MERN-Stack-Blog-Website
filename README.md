@@ -9,7 +9,7 @@ Blog Hub allow you to perform CURD operation, add blog, can see all user blogs, 
     <b>Sign In Page</b>
 </p>
 
-<img src="./client./screenshot/signin.png" alt="Main">
+<img src="./client/screenshot/signin.png" alt="Main">
 
 
 <p align="center">
