@@ -4,7 +4,7 @@ Blog Hub allow you to perform CURD operation, add blog, can see all user blogs, 
 
 ## Overview
 
-- **Frontend**: React.js with Material UI
+- **Frontend**: Developed with React.js
 - **Responsiveness**: Fully responsive design
 - **Backend**: Node.js and Express
 - **Database**: MongoDB
