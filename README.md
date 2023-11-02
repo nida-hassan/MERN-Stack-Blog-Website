@@ -4,13 +4,18 @@ Blog Hub allow you to perform CURD operation, add blog, can see all user blogs, 
 
 ## Overview
 
-- Frontend: React.js with Material UI
-- Responsiveness: Fully responsive design
-- Backend: Node.js and Express
-- Database: MongoDB
-- Security: Passwords encrypted with bcrypt.js
-- Architecture: MVC pattern
+- **Frontend**: React.js with Material UI
+- **Responsiveness**: Fully responsive design
+- **Backend**: Node.js and Express
+- **Database**: MongoDB
+- **Security**: Passwords encrypted with bcrypt.js
+- **Architecture**: MVC pattern
 
+## Prerequisites
+
+- **Node.js**: Node.js should be installed on your system as it's required to run the project.
+- **MongoDB**: MongoDB should be set up and running since it serves as the database for your application.
+- **Dependencies**: Please review the project's `package.json` file to see the list of Node.js modules and libraries used in this project.
 
 
 ## Screenshots
