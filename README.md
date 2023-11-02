@@ -1,19 +1,16 @@
 # MERN Blog Hub
 
-## About the Project
 Blog Hub allow you to perform CURD operation, add blog, can see all user blogs, update user blog and delete blog(Update and delete options are only available for the user's own blog). Allow user to update there personal information their name and password.
 
 ## Overview
 
-- **Frontend**: Developed with React.js and incorporates Material UI for an elegant and user-friendly interface. The website is designed to be completely responsive, ensuring an optimal user experience on various devices.
+- Frontend: React.js with Material UI
+- Responsiveness: Fully responsive design
+- Backend: Node.js and Express
+- Database: MongoDB
+- Security: Passwords encrypted with bcrypt.js
+- Architecture: MVC pattern
 
-- **Backend**: Powered by Node.js and Express, providing a robust and efficient server-side solution for handling requests and data storage. The project follows the MVC (Model-View-Controller) architectural pattern for a structured and organized codebase.
-
-- **Database**: MongoDB serves as the backend database for storing blog data and user information.
-
-- **Security**: Passwords are encrypted using bcrypt.js to enhance user data security.
-
-This project brings together a wide range of technologies to offer a comprehensive solution for managing blogs and personal information. Please review the prerequisites and installation instructions to get started with Blog Hub.
 
 
 ## Screenshots
