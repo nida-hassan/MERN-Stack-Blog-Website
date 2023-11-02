@@ -18,11 +18,11 @@ Blog Hub allow you to perform CURD operation, add blog, can see all user blogs, 
 - **Dependencies**: Please review the project's `package.json` file to see the list of Node.js modules and libraries used in this project.
 
 ## Technologies Used
-React JS
-Express JS
-Node JS
-Mongodb
-Redux.js
+- React JS
+- Express JS
+- Node JS
+- Mongodb
+- Redux.js
 
 
 ## How to Run
